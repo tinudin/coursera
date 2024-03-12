@@ -75,3 +75,4 @@ Building on the pipeline so far, it would be possible to add complexity by  impr
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
+image can be found in img
